@@ -4,6 +4,8 @@ I made a Simple Weather app, here is the source code :)
 if you wanna use it on your website, please keep the little comment in the code :) 
 and it's simple to upload to hosting, it's a good'ol'drag'n'drop
 
+You will NEED to sign up on weatherapi.com to get your own API key, it will not work if you do not get this!
+
 
 # Extra Shit
 <img src="https://img.shields.io/github/stars/ThomasEwanSykes/simple-weather-app?style=for-the-badge&color=orange">
