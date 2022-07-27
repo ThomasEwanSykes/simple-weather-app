@@ -54,7 +54,7 @@ else
   $Locjson = json_encode($myLoc);
   $ljosn = json_decode(file_get_contents($url), true);
 
-  $key = '42e1b4c1a04648eea20153245221907';
+  $key = ''; //sign up on weatherapi.com to get your API key and put it in between the ''; if not it WILL NOT work
   if (isset($_GET['query'])) {
     $query = $_GET['query'];
   } else {
